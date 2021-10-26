@@ -1,4 +1,4 @@
-# NA_LabVIEW
+# Network Analyzer_LabVIEW
 It is a measurement lab view of Agilent ENA Series network analyzer.
 
 ## Front Pannel
