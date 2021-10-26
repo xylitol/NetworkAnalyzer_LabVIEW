@@ -9,8 +9,8 @@ It is a measurement lab view of Agilent ENA Series network analyzer.
 
 ## Demo
 BPF 1840~1870MHz
-<p align="center"><img src="./img/demo.png" width="90%" height="90%" title="70px" alt="memoryblock"></p>
-<p align="center">Front panel</p>
+<p align="center"><img src="./img/demo.png" width="90%" height="90%" title="70px" alt="memoryblock">
+  Front panel</p>
 
 <p align="center"><img src="./img/test_img.png" width="70%" height="60%" title="70px" alt="memoryblock"></p>
 <p align="center">Screen of NA</p>
