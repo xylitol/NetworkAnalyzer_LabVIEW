@@ -1,11 +1,14 @@
 # Network Analyzer_LabVIEW
 It is a measurement lab view of Agilent ENA Series network analyzer.
 
-## Front Pannel
+## Front Panel
 <p align="center"><img src="./img/front.png" width="90%" height="90%" title="70px" alt="memoryblock"></p>
 
 ## Block Diagram
 <p align="center"><img src="./img/block.png" width="90%" height="90%" title="70px" alt="memoryblock"></p>
+
+## Demo
+<p align="center"><img src="./img/demo.png" width="90%" height="90%" title="70px" alt="memoryblock"></p>
 
 ## Development Environment
 * Windows 10
