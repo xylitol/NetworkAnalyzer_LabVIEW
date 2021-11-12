@@ -5,13 +5,15 @@ It is a measurement lab view of Agilent ENA Series network analyzer.
 <p align="center"><img src="./img/front.png" width="90%" height="90%" title="70px" alt="memoryblock"></p>
 
 ## Block Diagram
-<p align="center"><img src="./img/block.png" width="90%" height="90%" title="70px" alt="memoryblock"></p>
+<p align="center"><img src="./img/block1.png" width="90%" height="90%" title="70px" alt="memoryblock"></p>
+<p align="center"><img src="./img/block2.png" width="90%" height="90%" title="70px" alt="memoryblock"></p>
+<p align="center"><img src="./img/block3.png" width="90%" height="90%" title="70px" alt="memoryblock"></p>
 
 ## Demo
 BPF 1840~1870MHz
-<p align="center"><img src="./img/demo.png" width="90%" height="90%" title="70px" alt="memoryblock"><br>Front panel</p><br>
+<p align="center"><img src="./img/BPF_demo.png" width="90%" height="90%" title="70px" alt="memoryblock"><br>Front panel</p><br>
 
-<p align="center"><img src="./img/test_img.png" width="70%" height="60%" title="70px" alt="memoryblock"><br>Screen of NA</p><br>
+<p align="center"><img src="./img/BPF_img.png" width="70%" height="60%" title="70px" alt="memoryblock"><br>Screen of NA</p><br>
 
 ## Development Environment
 * Windows 10
