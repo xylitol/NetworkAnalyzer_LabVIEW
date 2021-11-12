@@ -1,6 +1,9 @@
 # Network Analyzer_LabVIEW
 It is a measurement lab view of Agilent ENA Series network analyzer.
 
+Automatically finds and outputs the maximum value of dB in the corresponding bandwidth.
+Periodically save images and s2p.
+
 ## Front Panel
 <p align="center"><img src="./img/front.png" width="90%" height="90%" title="70px" alt="memoryblock"></p>
 
