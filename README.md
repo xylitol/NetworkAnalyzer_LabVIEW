@@ -9,9 +9,7 @@ Periodically save images and s2p.
 
 ## Block Diagram
 NA.iv
-<p align="center"><img src="./img/block1.png" width="90%" height="90%" title="70px" alt="memoryblock"></p>
-<p align="center"><img src="./img/block2.png" width="90%" height="90%" title="70px" alt="memoryblock"></p>
-<p align="center"><img src="./img/block3.png" width="90%" height="90%" title="70px" alt="memoryblock"></p>
+<p align="center"><img src="./img/block.png" width="90%" height="90%" title="70px" alt="memoryblock"></p>
 
 sub_saveData.vi
 <p align="center"><img src="./img/data_block.png" width="90%" height="90%" title="70px" alt="memoryblock"></p>
